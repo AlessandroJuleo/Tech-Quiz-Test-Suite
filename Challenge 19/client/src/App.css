@@ -1,0 +1,23 @@
+.p-4.text-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+}
+
+.card {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+}

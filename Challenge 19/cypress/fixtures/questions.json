@@ -1,0 +1,12 @@
+[
+    {
+      "question": "Which of the following statements is used to handle exceptions in Python?",
+      "answers": [
+        { "text": "catch", "isCorrect": false },
+        { "text": "except", "isCorrect": true },
+        { "text": "handle", "isCorrect": false },
+        { "text": "try", "isCorrect": false }
+      ]
+    }
+  ]
+  
