@@ -69,3 +69,6 @@ The styles are in **`src/App.css`**. You can modify the design there to improve 
 
 ## 🏆 Credits
 Developed by **Alessandro Lopez Costal** ✨
+
+## 🏆 Link of Video
+https://youtu.be/1qM-_2tSqL0
